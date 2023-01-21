@@ -1,0 +1,17 @@
+.navlink {
+  margin-right: 1rem;
+  padding: .5rem;
+}
+
+.navlink:hover{
+  
+    color: rgb(191, 0, 255)
+  
+}
+
+.body{
+  margin:auto;
+  width:1024px;
+  padding:40px;
+}
+
